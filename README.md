@@ -11,7 +11,6 @@ The implementation is in C++, utilizing Flex for lexical analysis and Bison for 
 - [Virtual Machine](#virtual-machine)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [Testing](#testing)
 
 ## 📝Language Description
 
